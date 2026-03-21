@@ -1,0 +1,15 @@
+name: dateparse
+version: 0.1.0
+
+authors:
+  - Thomas Fazzari
+
+description: |
+  Simple date/time string parser for Crystal. Handles RFC 3339, RFC 2822, RFC 822,
+  ISO 8601, HTTP dates, Unix timestamps, and partial dates with zero runtime dependencies.
+
+license: MIT
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
