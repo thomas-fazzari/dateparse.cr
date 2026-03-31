@@ -1,6 +1,7 @@
 # DateParse
 
 [![CI](https://github.com/thomas-fazzari/dateparse.cr/actions/workflows/ci.yml/badge.svg)](https://github.com/thomas-fazzari/dateparse.cr/actions/workflows/ci.yml)
+[![Coverage](https://codecov.io/gh/thomas-fazzari/dateparse.cr/graph/badge.svg)](https://codecov.io/gh/thomas-fazzari/dateparse.cr)
 
 Parse date and time strings in Crystal. Give `DateParse.parse` a string in any common format, and it returns a `Time`.
 
